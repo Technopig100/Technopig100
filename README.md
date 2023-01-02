@@ -1,6 +1,6 @@
 ## Technopig100 <Jacob Durant technopig@hotmail.com>
 
-#Adk-linux is a Arch-Linux Respin ISO created by Technopig100 a student of Erik Dubois.
+#Adk-linux is a Arch-Linux Respin ISO created by Technopig100 a unofficial student of Erik Dubois.
 
 ## view
 ![view](View-1.png?raw=true)
